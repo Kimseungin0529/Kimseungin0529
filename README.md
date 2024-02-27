@@ -3,6 +3,12 @@
 <!--
 **Kimseungin0529/Kimseungin0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+[![Kimseungin0529's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=Kimseungin0529&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/Kimseungin0529/github-readme-stats)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
